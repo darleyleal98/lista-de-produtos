@@ -22,6 +22,7 @@ class FormularioProdutoActivity : AppCompatActivity() {
         configurarBotaoSalvarDados()
     }
 
+
     private fun configurarBotaoSalvarDados() {
         binding.activityFormularioProdutoButtonSalvar.setOnClickListener {
             criarNovosProdutos()
