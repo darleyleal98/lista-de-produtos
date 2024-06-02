@@ -1,7 +1,7 @@
 # E-Commerce - Lista de Produtos:
 <p> 
   
-### Linguagem do projeto: Kotlin
+### <li> Linguagem do projeto: Kotlin </li>
 
 ### Personalização e Customização:
 Isso inclui a alteração de cores, fontes, adição de imagens, criação de caixas de diálogo e utilização de componentes do Material Design.
