@@ -1,4 +1,4 @@
-## E-Commerce - Lista de Produtos:
+# E-Commerce - Lista de Produtos:
 <p> 
   
 ### Linguagem do projeto: Kotlin
@@ -11,7 +11,7 @@ Forão abordados tópicos como activities, layout (ConstraintLayout), views (Tex
 
 #### Tela inicial com a listagem de produtos:
 
-<img src="![image](https://github.com/darleyleal98/lista-de-produtos/assets/132721098/3a92ccc7-872d-483f-a9fa-a2a91aef857e)"> </img>
+<img src="https://github.com/darleyleal98/lista-de-produtos/assets/132721098/3a92ccc7-872d-483f-a9fa-a2a91aef857e)"> </img>
 
   #### Tela de formulário onde é possível adicionar novos dados:
   ###### *Cada produto possui um nome, descrição detalhada e um valor*
