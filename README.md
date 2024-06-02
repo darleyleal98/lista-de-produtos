@@ -4,7 +4,11 @@
 ### <li> Linguagem do projeto: Kotlin </li>
 
 ### <li> Personalização e Customização: </li>
-Isso inclui a alteração de cores, fontes, adição de imagens, criação de caixas de diálogo e utilização de componentes do Material Design.
+<li> Cores, </li>
+<li> fontes, </li>
+<li> adição de imagens, </li>
+<li> criação de caixas de diálogo </li>
+<li> utilização de componentes do Material Design. </li>
 
 ### <li> Tópicos Abordados: </li>
 Forão abordados tópicos como activities, layout (ConstraintLayout), views (TextView, RecyclerView, EditText, Button), binding de views, listener de clique, biblioteca do AndroidX e refatoração de código.
@@ -14,7 +18,6 @@ Forão abordados tópicos como activities, layout (ConstraintLayout), views (Tex
 <img src="https://github.com/darleyleal98/lista-de-produtos/assets/132721098/3a92ccc7-872d-483f-a9fa-a2a91aef857e)"> </img>
 
   #### <li> Tela de formulário onde é possível adicionar novos dados: </li>
-  #### <li> *Cada produto possui um nome, descrição detalhada e um valor* </li> 
 
 <img src="(https://github.com/darleyleal98/lista-de-produtos/assets/132721098/ffaf3ce8-00d6-4ec4-9f86-0bc5f7182836)"> </img>
 
