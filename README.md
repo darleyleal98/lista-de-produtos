@@ -3,13 +3,6 @@
   
 ### <li> Linguagem do projeto: Kotlin </li>
 
-### <li> Personalização e Customização: </li>
-<li> Cores, </li>
-<li> fontes, </li>
-<li> adição de imagens, </li>
-<li> criação de caixas de diálogo </li>
-<li> utilização de componentes do Material Design. </li>
-
 ### <li> Tópicos Abordados: </li>
 Forão abordados tópicos como activities, layout (ConstraintLayout), views (TextView, RecyclerView, EditText, Button), binding de views, listener de clique, biblioteca do AndroidX e refatoração de código.
 
