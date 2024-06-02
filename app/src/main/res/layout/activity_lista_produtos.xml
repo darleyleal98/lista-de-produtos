@@ -16,13 +16,19 @@
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:listitem="@layout/activity_items" />
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         android:id="@+id/activity_lista_produtos_floating_action_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:text="@string/novo_produto"
+        android:textAllCaps="true"
+        android:fontFamily="@font/poppins"
+        android:textColor="@color/white"
         android:layout_margin="16dp"
-        android:src="@android:drawable/ic_input_add"
+        app:iconTint="@color/white"
+        app:icon="@android:drawable/ic_input_add"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         tools:ignore="ContentDescription" />

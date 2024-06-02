@@ -4,4 +4,8 @@
     <string name="valor">Valor</string>
     <string name="nome">Nome</string>
     <string name="salvar">Salvar</string>
+    <string name="novo_produto">Novo produto</string>
+    <string name="carregar">Carregar</string>
+    <string name="url">URL da imagem</string>
+    <string name="descricao_item">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
 </resources>

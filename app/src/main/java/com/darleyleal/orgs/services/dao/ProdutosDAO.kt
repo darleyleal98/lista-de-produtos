@@ -1,6 +1,6 @@
-package com.darleyleal.orgs.data.dao
+package com.darleyleal.orgs.services.dao
 
-import com.darleyleal.orgs.data.model.Produto
+import com.darleyleal.orgs.model.Produto
 
 class ProdutosDAO {
     fun adicionar(produto: Produto) {
@@ -9,6 +9,10 @@ class ProdutosDAO {
 
     fun listarProdutos(): List<Produto> {
         return produtos.toList()
+    }
+
+    fun removerProduto(index: Int) {
+        produtos.removeAt(index)
     }
 
     companion object {
