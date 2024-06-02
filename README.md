@@ -1,4 +1,4 @@
-# E-Commerce - Lista de Produtos [Branch: M_Intarfaces]:
+# E-Commerce - Lista de Produtos [Branch: M_Interfaces]:
 <p> 
   
 ### <li> Linguagem do projeto: Kotlin </li>
